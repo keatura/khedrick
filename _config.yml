@@ -1,9 +1,10 @@
 theme: jekyll-theme-minimal
 title: Kateura's Homepage
-description: Bookmark this to keep an eye on my project updates!
-title-2: Unity Zelda Dungeon - By Keaton
-description-2: https://kateura.itch.io/zelda-dungeon-snippet
-description-3: Using Unity and C#, I developed the majority of the weapons and Enemy AIs. I also created a duplication mechanic in which Link can create weaker copies of himself. I experimented with audio in creating the sound effect for the switches, alongside art in creating all of the custom sprites.
-title-3: Transpose - By Keaton
-description-4: https://kateura.itch.io/transpose
-description-5: This game was a rapid prototype project. I wanted to develop some sort of game with a teleport mechanic, so I did that. This game is about fast momentum-based platforming and navigation when using teleportation.
+description: | 
+  Projects
+  Unity Zelda Dungeon - By Keaton
+  https://kateura.itch.io/zelda-dungeon-snippet
+  Using Unity and C#, I developed the majority of the weapons and Enemy AIs. I also created a duplication mechanic in which Link can create weaker copies of himself. I experimented with audio in creating the sound effect for the switches, alongside art in creating all of the custom sprites.
+  Transpose - By Keaton
+  https://kateura.itch.io/transpose
+  This game was a rapid prototype project. I wanted to develop some sort of game with a teleport mechanic, so I did that. This game is about fast momentum-based platforming and navigation when using teleportation.
