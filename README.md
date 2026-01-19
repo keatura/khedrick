@@ -16,3 +16,4 @@ https://kateura.itch.io/zelda-dungeon-snippet
 ## **Transpose** - By Keaton: 
 
 https://kateura.itch.io/transpose
+> This game was a rapid prototype project. I wanted to develop some sort of game with a teleport mechanic, so I did that. This game is about fast momentum-based platforming and navigation when using teleportation.
