@@ -32,4 +32,5 @@ Hello! I am Keaton Hedrick. I am a Computer Science student at the University of
 [Link to VizStudio recreation footage](https://www.youtube.com/watch?v=icynFW32BBg)
 > Using Unreal Engine's VR capabilities, I recreated a near one-to-one replica of the VizStudio VR lab at University of Michigan, alongside a painting mechanic so users can liven up those dull computer lab walls.
 >
-> As part of this project, I created an affordance system allow player interaction, as well as nearly all of the affordances/interactions showcased in the video. I also facilitated the mathematical conversion of the lab into a to-scale Unreal VR representation, fleshed out NPC AI, and extensively used composition to create the dynamic materials that make the painting system possible.
+> As part of this project, I created an affordance system allow player interaction, as well as nearly all of the affordances/interactions showcased in the video. I also facilitated the mathematical conversion of the lab into a to-scale Unreal VR representation, and fleshed out all NPC AI.
+> I extensively used Unreal blueprint composition in combination with my affordance system in order to create the dynamic materials that make the painting system possible. The custom paint-creation UI/UX was also entirely my work as part of this project.
