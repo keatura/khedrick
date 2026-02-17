@@ -26,3 +26,10 @@ Hello! I am Keaton Hedrick. I am a Computer Science student at the University of
 > As part of Studio One working on this project, I was the sole artist and publicist, as well as being the main team coordinator and main developer for the groundwork systems of the game.
 > As a developer, I was responsible for the 2D-platformer character controller, slam mechanic, the creation of the tremor and tilemap systems, the reaction-based amp blocks, and the refinement of all key features of the game.
 > This game was programmed using Unity and C#, and team management was accomplished via Jira and Discord.
+
+## **VR Recreation - Duderstadt Center VizStudio Lab**
+
+[Link to VizStudio recreation footage](https://www.youtube.com/watch?v=icynFW32BBg)
+> Using Unreal Engine's VR capabilities, I recreated a near one-to-one replica of the VizStudio VR lab at University of Michigan, alongside a painting mechanic so users can liven up those dull computer lab walls.
+>
+> As part of this project, I created an affordance system allow player interaction, as well as nearly all of the affordances/interactions showcased in the video. I also facilitated the mathematical conversion of the lab into a to-scale Unreal VR representation, fleshed out NPC AI, and extensively used composition to create the dynamic materials that make the painting system possible.
