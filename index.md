@@ -8,15 +8,16 @@ Hello! I am Keaton Hedrick. I am a Computer Science student at the University of
 
 # Portfolio Works
 
-##  **Unity Zelda Dungeon** - By Keaton: 
+## **Ripple Engine**
+![Ripple Engine Logo](https://github.com/keatura/RippleEngine/blob/main/ripple_engine.png?raw=true)
+[Link to Ripple Engine repo](https://github.com/keatura/RippleEngine)
+[Link to Engine DevBlog videos](https://www.youtube.com/playlist?list=PLZqmYYJmzT1WKoycGoLJuzbuiEf0XY-ZQ)
 
-[Link to Zelda Dungeon page](https://kateura.itch.io/zelda-dungeon-snippet)
-> Using Unity and C#, I developed the majority of the weapons and Enemy AIs. I also created a duplication mechanic in which Link can create weaker copies of himself. I experimented with audio in creating the sound effect for the switches, alongside art in creating all of the custom sprites.
-
-## **Transpose** - By Keaton: 
-
-[Link to Transpose page](https://kateura.itch.io/transpose)
-> This game was a rapid prototype project. I wanted to develop some sort of game with a teleport mechanic, so I did that. This game is about fast momentum-based platforming and navigation when using teleportation.
+> A robust 2D game engine for Mac, Windows, and Linux.
+>
+> This engine is based around facilitating ease of scripting via Mono C#, while at the same time sacrificing as little performance as possible, and adhering strictly to ECS and data-oriented concepts.
+> Pre-bundled with Box2D physics and an API for easy and intuitive SDL3 audio, rendering, and input management, all atop a breakneck-speed C++ skeleton, this engine is primed and ready to do just about anything one could possibly dream of for 2D game development.
+> Other technologies used in this engine include Newtonsoft Json, Rapidjson, Luabridge, Lua, GLM, and (previously) SDL2.
 
 ## **Slam Jam** - By Keaton, Jay, Owen, Charles, and Justin:
 
@@ -34,3 +35,14 @@ Hello! I am Keaton Hedrick. I am a Computer Science student at the University of
 >
 > As part of this project, I created an affordance system allow player interaction, as well as nearly all of the affordances/interactions showcased in the video. I also facilitated the mathematical conversion of the lab into a to-scale Unreal VR representation, and fleshed out all NPC AI.
 > I extensively used Unreal blueprint composition in combination with my affordance system in order to create the dynamic materials that make the painting system possible. The custom paint-creation UI/UX was also entirely my work as part of this project.
+
+
+##  **Unity Zelda Dungeon** - By Keaton: 
+
+[Link to Zelda Dungeon page](https://kateura.itch.io/zelda-dungeon-snippet)
+> Using Unity and C#, I developed the majority of the weapons and Enemy AIs. I also created a duplication mechanic in which Link can create weaker copies of himself. I experimented with audio in creating the sound effect for the switches, alongside art in creating all of the custom sprites.
+
+## **Transpose** - By Keaton: 
+
+[Link to Transpose page](https://kateura.itch.io/transpose)
+> This game was a rapid prototype project. I wanted to develop some sort of game with a teleport mechanic, so I did that. This game is about fast momentum-based platforming and navigation when using teleportation.
