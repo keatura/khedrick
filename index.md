@@ -14,6 +14,7 @@ Hello! I am Keaton Hedrick. I am a Computer Science student at the University of
 [Link to Engine DevBlog videos](https://www.youtube.com/playlist?list=PLZqmYYJmzT1WKoycGoLJuzbuiEf0XY-ZQ)
 
 > A robust 2D game engine for Mac, Windows, and Linux.
+> 
 > Technologies: C++, SDL3, SDL2 (Previously), Mono C#, Box2D, Rapidjson, Newtonsoft Json, GLM
 >
 > This engine is based around facilitating ease of scripting via Mono C#, while at the same time sacrificing as little performance as possible, and adhering strictly to ECS and data-oriented concepts.
