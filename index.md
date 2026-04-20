@@ -8,6 +8,20 @@ Hello! I am Keaton Hedrick. I am a Computer Science student at the University of
 
 # Portfolio Works
 
+## **Ripple Engine**
+
+![Ripple Engine Logo](https://github.com/keatura/RippleEngine/blob/main/ripple_engine.png?raw=true)
+>
+> [Link to Ripple Engine repo](https://github.com/keatura/RippleEngine)
+> 
+> [Link to Engine DevBlog videos](https://www.youtube.com/playlist?list=PLZqmYYJmzT1WKoycGoLJuzbuiEf0XY-ZQ)
+
+> A robust 2D game engine for Mac, Windows, and Linux.
+>
+> This engine is based around facilitating ease of scripting via Mono C#, while at the same time sacrificing as little performance as possible, and adhering strictly to ECS and data-oriented concepts.
+> Pre-bundled with Box2D physics and an API for easy and intuitive SDL3 audio, rendering, and input management, all atop a breakneck-speed C++ skeleton, this engine is primed and ready to do just about anything one could possibly dream of for 2D game development.
+> Other technologies used in this engine include Newtonsoft Json, Rapidjson, Luabridge, Lua, GLM, and (previously) SDL2.
+
 ## **Slam Jam** - By Keaton, Jay, Owen, Charles, and Justin:
 
 [Link to Slam Jam page](https://jvijan.itch.io/slam-jam)
