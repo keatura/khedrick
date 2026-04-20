@@ -22,6 +22,13 @@ Hello! I am Keaton Hedrick. I am a Computer Science student at the University of
 > Pre-bundled with Box2D physics and an API for easy and intuitive SDL3 audio, rendering, and input management, all atop a breakneck-speed C++ skeleton, this engine is primed and ready to do just about anything one could possibly dream of for 2D game development.
 > Other technologies used in this engine include Newtonsoft Json, Rapidjson, Luabridge, Lua, GLM, and (previously) SDL2.
 
+## **Boxing VR Simulator** - By Keaton, Owen, Kayne, and Emily:
+[Project Website](https://owenmoj.wixsite.com/eecs-440-studio-1)
+>
+> My final project for EECS440 XR for Social Impact, a completely custom environment for learning the basics of boxing and simple self defense principles.
+>
+> This project was developed in Unreal Engine 5 for the Meta Quest 3. As part of this project, I worked on the hand physics for the player in order to create a realistic punching experience. Alongside this, I worked on detailing models, marketing through the trailers, and scheduling with other VR teams to playtest our product.
+
 ## **Slam Jam** - By Keaton, Jay, Owen, Charles, and Justin:
 
 [Link to Slam Jam page](https://jvijan.itch.io/slam-jam)
