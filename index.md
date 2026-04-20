@@ -4,7 +4,7 @@ layout: default
 
 # Introduction
 
-Hello! I am Keaton Hedrick. I am a Computer Science student at the University of Michigan, and I am in my Senior year and final semester.
+Hello! I am Keaton Hedrick. I am a Computer Science student at the University of Michigan, and I am a current Junior with an expected graduation date of May 2027
 
 # Portfolio Works
 
