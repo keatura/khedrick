@@ -9,10 +9,9 @@ Hello! I am Keaton Hedrick. I am a Computer Science student at the University of
 # Portfolio Works
 
 ## **Ripple Engine**
-[Ripple Engine Logo](https://github.com/keatura/RippleEngine/blob/main/ripple_engine.png?raw=true)
->[Link to Ripple Engine repo](https://github.com/keatura/RippleEngine)
->
->[Link to Engine DevBlog videos](https://www.youtube.com/playlist?list=PLZqmYYJmzT1WKoycGoLJuzbuiEf0XY-ZQ)
+![Ripple Engine Logo](https://github.com/keatura/RippleEngine/blob/main/ripple_engine.png?raw=true)
+[Link to Ripple Engine repo](https://github.com/keatura/RippleEngine)
+[Link to Engine DevBlog videos](https://www.youtube.com/playlist?list=PLZqmYYJmzT1WKoycGoLJuzbuiEf0XY-ZQ)
 
 > A robust 2D game engine for Mac, Windows, and Linux.
 > Technologies: C++, SDL3, SDL2 (Previously), Mono C#, Box2D, Rapidjson, Newtonsoft Json, GLM
